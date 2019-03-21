@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/parttimelegend
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.abdevops.com
+  * I am parttimelegend (https://keybase.io/parttimelegend) on keybase.
+  * I have a public key ASCgzvobxqaESTo7KdELJ6PKDacAfIMwJTl4P6kwYDJ-fAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204ecacb87d8bcc77cdf86ac5c7f758fb2bf5813cfec0bd6372743844e0fc008770a",
+      "host": "keybase.io",
+      "kid": "0120a0cefa1bc6a684493a3b29d10b27a3ca0da7007c83302539783fa93060327e7c0a",
+      "uid": "5fa1ef7f45f56dc360acf67d5bfcb619",
+      "username": "parttimelegend"
+    },
+    "merkle_root": {
+      "ctime": 1553186047,
+      "hash": "6b55808e4a83fb6f46359438a81bb215842bfa5be0fa4a70e870d23565d81dfe219af265119dcc8b86ef32ff99164ecd7deb5b6adf4e3d147a93f96e72dc0bd6",
+      "hash_meta": "cc71eb3fa0631c63f6a8cbdebca04b33c6474e8ad0243225ee3fc929a821032f",
+      "seqno": 4996226
+    },
+    "service": {
+      "entropy": "Wt5pm/w1kSk3mIbzA9eYIgvD",
+      "hostname": "www.abdevops.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1553186070,
+  "expire_in": 504576000,
+  "prev": "9609d9727dbbcd6e32c6c170ab3fc7faa05018494303df1823f35df949c19c5c",
+  "seqno": 38,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoM76G8amhEk6OynRCyejyg2nAHyDMCU5eD+pMGAyfnwKp3BheWxvYWTESpcCJsQglgnZcn27zW4yxsFwqz/H+qBQGElDA98YI/Nd+UnBnFzEIJP3viTLTSduKePrmlXLRjSJf8Oxi9fDmsJHGHJrjbdfAgHCo3NpZ8RAW8udFKjQowjFeu7qPjZq2MNxyRasNmUXP7MmMFt/efWJvZQYgi6eQMKD+uny3OhGEsSVhGWWlZsnHHDEQYelDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMuPGAqvwKqmGyIhhWZ5qqmV5cbsB2el5KIVj2DHqDmfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/parttimelegend
+
+==================================================================
